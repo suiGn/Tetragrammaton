@@ -24,5 +24,6 @@
   },
   "homepage": "https://github.com/suiGn/Tetragrammaton#readme",
   "dependencies": {
-  }
+  },
+  "repoType": "NPM Package"
 }
