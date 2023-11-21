@@ -1,0 +1,38 @@
+{
+  "source": {
+    "include": ["./src", "./index.js"]
+  },
+  "opts": {
+    "destination": "./docs",
+    "template": "../neurons.me/src/assets/better-docs"
+  },
+  "templates": {
+    "cleverLinks": false,
+    "monospaceLinks": false,
+    "search": true,
+    "default": {
+        "staticFiles": {
+          "include": [
+              "./README.md"
+          ]
+        }
+    },
+    "better-docs": {
+        "name": "Tetragrammaton Docs",
+        "title": "Tetragrammaton Docs", 
+        "css": "style.css",
+        "trackingCode": "...",
+  "hideGenerator": false,
+        "navLinks": [
+            {
+                "label": "Github",
+                "href": "https://github.com/suiGn/netget"
+            },
+            {
+                "label": "App",
+                "href": "https://neurons.me"
+            }
+        ]
+    }
+}
+}
