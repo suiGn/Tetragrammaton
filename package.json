@@ -13,17 +13,18 @@
     "Space",
     "Time"
   ],
-  "author": "Sui Gn",
-  "license": "MIT - LICENSE",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/suiGn/Tetragrammaton"
-  },
   "bugs": {
     "url": "https://github.com/suiGn/Tetragrammaton/issues"
   },
-  "homepage": "https://github.com/suiGn/Tetragrammaton#readme",
   "dependencies": {
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/Tetragrammaton.git"
+  },
+  "homepage": "https://www.npmjs.com/package/tetragrammaton",
+  "docs": "https://suiGn.github.io/Tetragrammaton",
+  "author": "Sui Gn",
+  "license": "MIT - LICENSE",
   "repoType": "NPM Package"
 }
