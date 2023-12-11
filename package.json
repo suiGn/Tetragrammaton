@@ -1,7 +1,7 @@
 {
     "name": "tetragrammaton",
     "version": "0.0.1",
-    "description": "Create a Tetragrammaton",
+    "description": "Connecting the dots between the 4th dimension and the 5th dimension.",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
