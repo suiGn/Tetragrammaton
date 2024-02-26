@@ -26,5 +26,6 @@
   "docs": "https://suiGn.github.io/Tetragrammaton",
   "author": "Sui Gn",
   "license": "MIT - LICENSE",
-  "repoType": "NPM Package"
+  "repoType": "NPM Package",
+    "category": "utils"
 }
