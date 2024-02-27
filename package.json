@@ -1,6 +1,6 @@
 {
     "name": "tetragrammaton",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Connecting the dots between the 4th dimension and the 5th dimension.",
     "main": "index.js",
     "scripts": {
