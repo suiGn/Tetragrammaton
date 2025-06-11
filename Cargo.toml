@@ -11,7 +11,7 @@ keywords = ["fuse", "filesystem", "identity", "axum", "daemon"]
 categories = ["filesystem", "os::linux-apis", "network-programming", "command-line-utilities"]
 
 [dependencies]
-fuse = "0.5"
+fuse = "0.3"
 libc = "0.2"
 time = "0.3"
 axum = "0.7"
