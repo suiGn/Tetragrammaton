@@ -1,0 +1,3 @@
+[submodule "packages/crate/monads.ai"]
+	path = packages/crate/monads.ai
+	url = https://github.com/neurons-me/monads.ai.git

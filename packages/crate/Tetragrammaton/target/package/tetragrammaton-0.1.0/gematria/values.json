@@ -1,0 +1,50 @@
+{
+    "gematria_values": [
+        {
+            "number": 10,
+            "hebrew": "י - Yud",
+            "description": "Represents the singular point of creation, divinity, and the infinite in the finite."
+        },
+        {
+            "number": 18,
+            "hebrew": "חי - Chai",
+            "description": "Means 'life'. Commonly used in the custom of giving monetary gifts in multiples of 18."
+        },
+        {
+            "number": 26,
+            "hebrew": "יהוה - YHWH",
+            "description": "The numerical value of the Tetragrammaton, the ineffable name of God."
+        },
+        {
+            "number": 32,
+            "hebrew": "לב - Lev",
+            "description": "Means 'heart'. Significant in Kabbalistic literature, associated with the 32 Paths of Wisdom."
+        },
+        {
+            "number": 40,
+            "hebrew": "מ - Mem",
+            "description": "Represents transition or change, such as the duration of the Great Flood or Moses' time leading the Israelites."
+        },
+        {
+            "number": 72,
+            "description": "Associated with the 72 names of God in Kabbalah, derived from three verses in Exodus 14."
+        },
+        {
+            "number": 137,
+            "description": "Significant in Jewish contexts and also known as the Fine Structure Constant in physics."
+        },
+        {
+            "number": 613,
+            "description": "Represents the total number of mitzvot (commandments) in the Torah."
+        },
+        {
+            "number": 666,
+            "description": "While most associated with Christian eschatology, it appears in the Hebrew Bible in contexts like 1 Kings 10:14."
+        },
+        {
+            "number": 888,
+            "hebrew": "Mashiach (Mem, Shin, Yud, Chet)",
+            "description": "The gematria value of the word 'Mashiach' (Messiah) when spelled in a particular way."
+        }
+    ]
+}
