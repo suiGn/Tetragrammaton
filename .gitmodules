@@ -1,3 +1,6 @@
 [submodule "packages/crate/monads.ai"]
 	path = packages/crate/monads.ai
 	url = https://github.com/neurons-me/monads.ai.git
+[submodule "domains/monadLisa"]
+	path = domains/monadLisa
+	url = https://github.com/suiGn/monadLisa.git
